@@ -1,0 +1,14 @@
+### Fetch all songs
+GET http://localhost:3000/songs
+
+### Find song by id
+GET http://localhost:3000/songs/1
+
+### Create new song
+POST http://localhost:3000/songs
+
+### Update song by id
+PUT http://localhost:3000/songs/1
+
+### Delete song by id
+DELETE http://localhost:3000/songs/1
